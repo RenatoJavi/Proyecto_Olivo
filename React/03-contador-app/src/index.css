@@ -1,0 +1,17 @@
+html,body{
+
+    color: antiquewhite;
+    background-color: #21202A;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.0
+    rem;
+    padding: 2%;
+}
+
+button{
+font-size: 1.3rem;
+padding: 1%;
+color: rgb(8, 10, 12);
+background-color: rgb(253, 255, 127);
+margin-right: 10px;
+}
